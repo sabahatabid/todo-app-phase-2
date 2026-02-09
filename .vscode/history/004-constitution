@@ -1,0 +1,20 @@
+Date: 2026-02-09
+Agent: Spec Agent
+Phase: Project Constitution
+
+Action: Created Project Constitution
+Location: .specify/memory/constitution.md
+
+Defined:
+- Primary directives (spec-driven development)
+- Project structure rules (monorepo layout)
+- Agent hierarchy and responsibilities
+- Development workflow (7-step process)
+- Security rules (Better Auth + JWT)
+- API contract rules
+- Database rules (SQLModel + Neon)
+- Frontend rules (Next.js App Router)
+- Backend rules (FastAPI)
+- Ops and deployment rules
+
+Result: Complete governance framework for project development
